@@ -17,4 +17,4 @@ Currently living and working in Shanghai. I work in **Machine Learning & Data Sc
 | ML & Data Science | PyTorch · XGBoost · pandas · scikit-learn |
 | Frontend | React · Tailwind CSS |
 | Backend | Flask · Node.js |
-| AI & Agents | AI Agents · MCP · Agent Tools · RAG · Context Management · Agent Memory |
+| AI & Agents | MCP · Agent Tools · RAG · Context Management · Agent Memory |
